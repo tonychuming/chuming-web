@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/personal-portfolio.git
 
 2. Install dependencies:
 ```bash
-cd personal-portfolio
+cd chuming-web
 npm install
 ```
 
